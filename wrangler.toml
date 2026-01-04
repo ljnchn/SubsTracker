@@ -13,7 +13,7 @@ name = "subscription-manager-staging"
 [[kv_namespaces]]
 binding = "SUBSCRIPTIONS_KV"
 preview_id = "your-preview-kv-namespace-id"
-id = "abda39deaa2247ec9aac4b84c16eea09"
+id = "d7f7d28f40fa438fbe53fa7399eb62fa"
 
 # 定时任务配置 - 每天早上8点检查
 [triggers]
